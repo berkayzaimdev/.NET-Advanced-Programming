@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_ActionFilterUsage", "01_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Middlewares", "02_Middlewares\02_Middlewares.csproj", "{0BE6BD18-01FA-4DB5-8FBC-BAAC3E16A947}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_APIVersioning", "03_APIVersioning\03_APIVersioning.csproj", "{BE2AC0CA-EB40-4043-8502-935B46D48A12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0BE6BD18-01FA-4DB5-8FBC-BAAC3E16A947}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BE6BD18-01FA-4DB5-8FBC-BAAC3E16A947}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BE6BD18-01FA-4DB5-8FBC-BAAC3E16A947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2AC0CA-EB40-4043-8502-935B46D48A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2AC0CA-EB40-4043-8502-935B46D48A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2AC0CA-EB40-4043-8502-935B46D48A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2AC0CA-EB40-4043-8502-935B46D48A12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
